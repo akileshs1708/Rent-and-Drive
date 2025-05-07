@@ -1,0 +1,16 @@
+Make: Toyota, Model: 3 Series, Year: 2011
+License Plate: TN82CJ6378, Rental Date: 2024-04-16, Return Date: 2024-04-16
+Customer Name: Akilesh, License Number: 23473
+-------------------------
+Make: Toyota, Model: C-Class, Year: 2017
+License Plate: TN53SF2947, Rental Date: 2024-04-16, Return Date: 2024-04-16
+Customer Name: akilesh, License Number: 234234
+-------------------------
+Make: Toyota, Model: C-Class, Year: 2017
+License Plate: TN53SF2947, Rental Date: 2024-04-18, Return Date: 2024-04-18
+Customer Name: Gowreesh, License Number: 294243243
+-------------------------
+Make: Volkswagen, Model: Elantra, Year: 2014
+License Plate: TN10FS4152, Rental Date: 2024-04-18, Return Date: 2024-04-18
+Customer Name: LOKI, License Number: LTN17321332
+-------------------------

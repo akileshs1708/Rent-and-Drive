@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1713421554 source:c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\main.cpp
+	"CarRentalSystem.h"
+	<iostream>
+	<stdexcept>
+	<limits>
+
+1713370345 c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\vehicle.h
+	<string>
+
+1713259129 c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\carrentalsystem.h
+	"Vehicle.h"
+	"Customer.h"
+	"RentalTransaction.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<ctime>
+	<cmath>
+	<sstream>
+
+1713370340 c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\customer.h
+	<string>
+
+1713369447 c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\rentaltransaction.h
+	"Customer.h"
+	"Vehicle.h"
+	<string>
+
+1713369407 source:c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\customer.cpp
+	"Customer.h"
+
+1713369519 source:c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\rentaltransaction.cpp
+	"RentalTransaction.h"
+	<iostream>
+
+1713372014 source:c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\vehicle.cpp
+	"Vehicle.h"
+
+1713416217 source:c:\users\psivk\documents\oops\carrentalmanagement\carrentalmanagement\carrentalsystem.cpp
+	"CarRentalSystem.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<ctime>
+	<cmath>
+
+1713416217 source:c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\carrentalsystem.cpp
+	"CarRentalSystem.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<ctime>
+	<cmath>
+
+1713259129 c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\carrentalsystem.h
+	"Vehicle.h"
+	"Customer.h"
+	"RentalTransaction.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<ctime>
+	<cmath>
+	<sstream>
+
+1713370345 c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\vehicle.h
+	<string>
+
+1713370340 c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\customer.h
+	<string>
+
+1713369447 c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\rentaltransaction.h
+	"Customer.h"
+	"Vehicle.h"
+	<string>
+
+1713369407 source:c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\customer.cpp
+	"Customer.h"
+
+1713421554 source:c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\main.cpp
+	"CarRentalSystem.h"
+	<iostream>
+	<stdexcept>
+	<limits>
+
+1713369519 source:c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\rentaltransaction.cpp
+	"RentalTransaction.h"
+	<iostream>
+
+1713372014 source:c:\users\psivk\documents\oops\carrentalmanagement\23pd12 23pd33 car rental management\vehicle.cpp
+	"Vehicle.h"
+
